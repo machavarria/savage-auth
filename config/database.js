@@ -1,6 +1,6 @@
 // config/database.js
 module.exports = {
 
-    'url' : 'mongodb+srv://demo:demo@cluster0.q2ojb.mongodb.net/myFirstDatabase?retryWrites=true&w=majority', 
-    'dbName': 'demo'
+    'url' : 'mongodb+srv://marcachavarria3_db_user:LqeisQYtgUFEuBbk@cluster21.bfsz2it.mongodb.net/21-auth?appName=Cluster21', 
+    'dbName': '21-auth'
 };
