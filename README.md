@@ -1,5 +1,7 @@
 # Savage Auth Project
 
+![](public/img/savage-auth-screenshot.png)
+
 This full-stack web application lets users create an account, log in, and participate on a shared message board. Once signed in, users can post messages, react with thumbs up or thumbs down, and manage their profiles through login and logout functionality.
 
 ## Tech Used:
